@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: yellow;
+}
+
+form{
+    margin-top: 20px;
+}
+
+h3{
+    margin-top: 20px;
+    color: black;
+}
+
+textarea {
+    border: 1px solid #070101;
+    border-radius: 4px;
+    padding: 10px;
+}
